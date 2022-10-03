@@ -1,0 +1,25 @@
+
+body {
+	background: #505050;
+}
+form {
+	background-color: #505050;
+}
+table {
+	background-color: #ffffff;
+	border-collapse: separate;
+	
+}
+
+input{
+	width:80%;
+}
+select{
+	width: 80%;
+}
+textarea{
+	width: 80%;
+}
+.td{
+	width: 250px;
+}
